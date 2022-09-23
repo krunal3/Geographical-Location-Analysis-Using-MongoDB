@@ -1,0 +1,7 @@
+_id,name,office_1_longitude,office_1_latitude,office_1_city,office_1_country_code,starbucks_lat,starbucks_long,starbucks_dist,shope_name_type,school_lat,school_long,school_dist,school_name_type
+52cdef7e4bab8bd67529a638,MarketRiders,-121.9909454,37.8097439,Palo Alto,USA,37.810122,-121.990044,80,Coffee Shop,37.806911,-121.992383,339,Child Care Service
+52cdef7e4bab8bd67529a794,Utxtud8,-117.9283,33.6187,Newport Beach,USA,33.617919,-117.929776,161,Coffee Shop,33.61785,-117.928716,101,Daycare
+52cdef7d4bab8bd675299cb3,Ablechair,-117.93181,33.618534,Newport Beach,USA,33.617919,-117.929776,198,Coffee Shop,33.617814,-117.928786,291,Education
+52cdef7e4bab8bd67529b279,Avere Systems,-80.010645,40.532969,Pittsburgh,USA,40.530193,-80.010716,298,Coffee Shop,40.531306,-80.011033,187,Business and Professional Services
+52cdef7d4bab8bd6752995b1,NexPlanar,-122.9021288,45.546481,Hillsboro,USA,45.550407,-122.903086,442,Coffee Shop,45.550363,-122.904557,470,Child Care Service
+52cdef7d4bab8bd67529993b,NexPlanar,-122.9021288,45.546481,Hillsboro,USA,45.550407,-122.903086,442,Coffee Shop,45.550363,-122.904557,470,Child Care Service
